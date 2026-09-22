@@ -1,0 +1,21 @@
+{
+  "timestamp": 1788219623.6995358,
+  "source": "hx711_2x_load_cells",
+  "port_hint": null,
+  "raw_line": "Load_cell 2:-0.0968, Mass:1.0832 g, Force:0.0106 N",
+  "load_cell_id": 2,
+  "signal": -0.0968,
+  "mass_g": 1.08316368,
+  "force_n": 0.010617820289568,
+  "conversion": {
+    "mass_slope": -4.0926,
+    "mass_offset": 0.687,
+    "gravity": 9.8026,
+    "formula_mass_g": "mass_g = -4.0926 * signal + 0.687",
+    "formula_force_n": "force_n = (mass_g / 1000) * 9.8026",
+    "note": "Load_cell 2, legacy small-arm fit"
+  },
+  "arduino_mass_g": 1.0832,
+  "arduino_force_n": 0.0106,
+  "stale": false
+}

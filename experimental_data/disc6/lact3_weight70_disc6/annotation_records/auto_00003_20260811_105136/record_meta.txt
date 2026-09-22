@@ -1,0 +1,35 @@
+record_time: 2026-08-11 10:51:36
+camera_pair: 2-3
+cam0_input_camera_id: 3
+cam1_input_camera_id: 2
+cam0_raw_saved: True
+cam1_raw_saved: True
+cam0_annotated_saved: True
+cam1_annotated_saved: True
+cam0_source: C:\Users\msl_3\Desktop\validation\visual_detection_system\latest_frames\1_latest.jpg
+cam1_source: C:\Users\msl_3\Desktop\validation\visual_detection_system\latest_frames\2_latest.jpg
+
+[Force]
+  available: true
+  stale: False
+  source: hx711_2x_load_cells
+  load_cell_id: 2
+  signal: -67.9617
+  mass_g: 278.82705341999997
+  force_n: 2.733230073854892
+  raw_line: Load_cell 2:-67.9617, Mass:278.8272 g, Force:2.7332 N
+  timestamp: 1786463496.5534134
+
+[Force/Rope1 3D]  # primary force direction
+  complete_3d: True
+  points_3d: [[-4.708831310272217, -78.39415740966797, 299.9630126953125], [10.032102584838867, -112.26466369628906, 224.81234741210938]]
+  direction_3d: [14.740933895111084, -33.870506286621094, -75.15066528320312]
+  direction_unit_3d: [0.17603541791473212, -0.4044797142144687, -0.8974450915953396]
+  length_mm: 83.73845485032611
+
+[Rope2 3D]  # optional second direction
+  complete_3d: False
+  points_3d: []
+  direction_3d: None
+  direction_unit_3d: None
+  length_mm: None

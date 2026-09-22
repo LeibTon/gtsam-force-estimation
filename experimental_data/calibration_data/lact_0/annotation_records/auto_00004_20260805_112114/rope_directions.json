@@ -1,0 +1,24 @@
+{
+  "timestamp": 1785946874.1822991,
+  "camera_pair": "2-3",
+  "rope1": {
+    "name": "rope1",
+    "cam0_2d": [],
+    "cam1_2d": [],
+    "points_3d": [],
+    "direction_3d": null,
+    "direction_unit_3d": null,
+    "length_mm": null,
+    "complete_3d": false
+  },
+  "rope2": {
+    "name": "rope2",
+    "cam0_2d": [],
+    "cam1_2d": [],
+    "points_3d": [],
+    "direction_3d": null,
+    "direction_unit_3d": null,
+    "length_mm": null,
+    "complete_3d": false
+  }
+}

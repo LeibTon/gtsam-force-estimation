@@ -1,0 +1,212 @@
+
+==================================================
+Timestamp: 2026-08-05 11:24:24
+Data Count: 1
+Record folder: logs\run_20260805_112423\annotation_records\auto_00001_20260805_112424
+
+[Camera Positions (Cam1 Origin)]:
+  cam1: [0.00, 0.00, 0.00]
+  cam2: [384.99, 20.92, -8.99]
+  cam3: [453.84, -11.86, 427.43]
+
+[Reconstructed Points (11 points)]:
+  Point 00: [-19.66, -127.34, 460.49]
+  Point 01: [-20.04, -100.52, 458.41]
+  Point 02: [-19.96, -72.64, 454.61]
+  Point 03: [-19.16, -46.46, 449.51]
+  Point 04: [-19.12, -20.26, 444.80]
+  Point 05: [-19.29, 5.63, 437.96]
+  Point 06: [-16.37, 31.91, 428.56]
+  Point 07: [-16.80, 56.98, 418.25]
+  Point 08: [-16.32, 81.19, 407.02]
+  Point 09: [-15.69, 104.18, 394.59]
+  Point 10: [-15.30, 125.53, 379.02]
+
+[Force]
+  available: true
+  stale: False
+  source: hx711_2x_load_cells
+  load_cell_id: 2
+  signal: -31.5163
+  mass_g: 129.67060938000003
+  force_n: 1.2711091155083882
+  raw_line: Load_cell 2:-31.5163, Mass:129.6706 g, Force:1.2711 N
+  timestamp: 1785947063.6844683
+
+[ROPE1]
+  cam0_2d: []
+  cam1_2d: []
+  points_3d: []
+  direction_3d: None
+  direction_unit_3d: None
+  length_mm: None
+  complete_3d: False
+
+[ROPE2]
+  cam0_2d: []
+  cam1_2d: []
+  points_3d: []
+  direction_3d: None
+  direction_unit_3d: None
+  length_mm: None
+  complete_3d: False
+==================================================
+
+==================================================
+Timestamp: 2026-08-05 11:24:25
+Data Count: 2
+Record folder: logs\run_20260805_112423\annotation_records\auto_00002_20260805_112425
+
+[Camera Positions (Cam1 Origin)]:
+  cam1: [0.00, 0.00, 0.00]
+  cam2: [384.99, 20.92, -8.99]
+  cam3: [453.84, -11.86, 427.43]
+
+[Reconstructed Points (11 points)]:
+  Point 00: [-19.66, -127.34, 460.49]
+  Point 01: [-20.04, -100.52, 458.41]
+  Point 02: [-19.96, -72.64, 454.61]
+  Point 03: [-19.16, -46.46, 449.51]
+  Point 04: [-19.12, -20.26, 444.80]
+  Point 05: [-19.29, 5.63, 437.96]
+  Point 06: [-16.37, 31.91, 428.56]
+  Point 07: [-16.80, 56.98, 418.25]
+  Point 08: [-16.32, 81.19, 407.02]
+  Point 09: [-15.69, 104.18, 394.59]
+  Point 10: [-15.30, 125.53, 379.02]
+
+[Force]
+  available: true
+  stale: False
+  source: hx711_2x_load_cells
+  load_cell_id: 2
+  signal: -31.5016
+  mass_g: 129.61044816
+  force_n: 1.270519379133216
+  raw_line: Load_cell 2:-31.5016, Mass:129.6104 g, Force:1.2705 N
+  timestamp: 1785947065.4614131
+
+[ROPE1]
+  cam0_2d: []
+  cam1_2d: []
+  points_3d: []
+  direction_3d: None
+  direction_unit_3d: None
+  length_mm: None
+  complete_3d: False
+
+[ROPE2]
+  cam0_2d: []
+  cam1_2d: []
+  points_3d: []
+  direction_3d: None
+  direction_unit_3d: None
+  length_mm: None
+  complete_3d: False
+==================================================
+
+==================================================
+Timestamp: 2026-08-05 11:24:26
+Data Count: 3
+Record folder: logs\run_20260805_112423\annotation_records\auto_00003_20260805_112426
+
+[Camera Positions (Cam1 Origin)]:
+  cam1: [0.00, 0.00, 0.00]
+  cam2: [384.99, 20.92, -8.99]
+  cam3: [453.84, -11.86, 427.43]
+
+[Reconstructed Points (11 points)]:
+  Point 00: [-19.66, -127.34, 460.49]
+  Point 01: [-20.04, -100.52, 458.41]
+  Point 02: [-19.96, -72.64, 454.61]
+  Point 03: [-19.16, -46.46, 449.51]
+  Point 04: [-19.12, -20.26, 444.80]
+  Point 05: [-19.29, 5.63, 437.96]
+  Point 06: [-16.37, 31.91, 428.56]
+  Point 07: [-16.80, 56.98, 418.25]
+  Point 08: [-16.32, 81.19, 407.02]
+  Point 09: [-15.69, 104.18, 394.59]
+  Point 10: [-15.30, 125.53, 379.02]
+
+[Force]
+  available: true
+  stale: False
+  source: hx711_2x_load_cells
+  load_cell_id: 2
+  signal: -31.4474
+  mass_g: 129.38862924
+  force_n: 1.268344976988024
+  raw_line: Load_cell 2:-31.4474, Mass:129.3885 g, Force:1.2683 N
+  timestamp: 1785947066.60862
+
+[ROPE1]
+  cam0_2d: []
+  cam1_2d: []
+  points_3d: []
+  direction_3d: None
+  direction_unit_3d: None
+  length_mm: None
+  complete_3d: False
+
+[ROPE2]
+  cam0_2d: []
+  cam1_2d: []
+  points_3d: []
+  direction_3d: None
+  direction_unit_3d: None
+  length_mm: None
+  complete_3d: False
+==================================================
+
+==================================================
+Timestamp: 2026-08-05 11:24:28
+Data Count: 4
+Record folder: logs\run_20260805_112423\annotation_records\auto_00004_20260805_112428
+
+[Camera Positions (Cam1 Origin)]:
+  cam1: [0.00, 0.00, 0.00]
+  cam2: [384.99, 20.92, -8.99]
+  cam3: [453.84, -11.86, 427.43]
+
+[Reconstructed Points (11 points)]:
+  Point 00: [-19.66, -127.34, 460.49]
+  Point 01: [-20.04, -100.52, 458.41]
+  Point 02: [-19.96, -72.64, 454.61]
+  Point 03: [-19.16, -46.46, 449.51]
+  Point 04: [-19.12, -20.26, 444.80]
+  Point 05: [-19.29, 5.63, 437.96]
+  Point 06: [-16.37, 31.91, 428.56]
+  Point 07: [-16.80, 56.98, 418.25]
+  Point 08: [-16.32, 81.19, 407.02]
+  Point 09: [-15.69, 104.18, 394.59]
+  Point 10: [-15.30, 125.53, 379.02]
+
+[Force]
+  available: true
+  stale: False
+  source: hx711_2x_load_cells
+  load_cell_id: 2
+  signal: -31.4257
+  mass_g: 129.29981982
+  force_n: 1.2674744137675322
+  raw_line: Load_cell 2:-31.4257, Mass:129.2998 g, Force:1.2675 N
+  timestamp: 1785947067.7554452
+
+[ROPE1]
+  cam0_2d: []
+  cam1_2d: []
+  points_3d: []
+  direction_3d: None
+  direction_unit_3d: None
+  length_mm: None
+  complete_3d: False
+
+[ROPE2]
+  cam0_2d: []
+  cam1_2d: []
+  points_3d: []
+  direction_3d: None
+  direction_unit_3d: None
+  length_mm: None
+  complete_3d: False
+==================================================

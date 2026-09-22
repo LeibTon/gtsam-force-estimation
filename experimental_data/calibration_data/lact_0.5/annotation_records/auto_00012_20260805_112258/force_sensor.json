@@ -1,0 +1,20 @@
+{
+  "timestamp": 1785946978.1029649,
+  "source": "hx711_2x_load_cells",
+  "port_hint": null,
+  "raw_line": "Load_cell 2:-14.6504, Mass:60.6450 g, Force:0.5945 N",
+  "load_cell_id": 2,
+  "signal": -14.6504,
+  "mass_g": 60.645227039999995,
+  "force_n": 0.5944809025823039,
+  "conversion": {
+    "mass_slope": -4.0926,
+    "mass_offset": 0.687,
+    "gravity": 9.8026,
+    "formula_mass_g": "mass_g = -4.0926 * signal + 0.687",
+    "formula_force_n": "force_n = (mass_g / 1000) * 9.8026"
+  },
+  "arduino_mass_g": 60.645,
+  "arduino_force_n": 0.5945,
+  "stale": false
+}

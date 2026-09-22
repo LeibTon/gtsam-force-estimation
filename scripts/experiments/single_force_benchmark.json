@@ -1,0 +1,1262 @@
+{
+  "youngs_modulus_pa": 71723166644.15858,
+  "tendon_friction_coefficient": 0.225614214748237,
+  "records": [
+    {
+      "trial": "lact3_weight20_disc6",
+      "dataset": "disc6",
+      "drive_mm": 3,
+      "disc": 6,
+      "weight_g": 20,
+      "status": "ok",
+      "tendon_tension_n": 3.8026788780145924,
+      "actual_force_n": 0.14450613159163103,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.1492278929172439,
+      "estimated_location_m": 0.15835887428969342,
+      "estimated_force_var_n2": 0.0028661131780322742,
+      "estimated_location_var_m2": 0.00046157202558909697,
+      "shape_rmse_mm": 3.503697715445121,
+      "force_error_n": 0.004721761325612861,
+      "force_percentage_error": 3.2675162455779962,
+      "force_location_error_mm": 23.35887428969341,
+      "force_direction_error_deg": 16.55153232801017,
+      "estimated_force_cov": [
+        [
+          0.0013642104332829356,
+          0.0010883791622287038,
+          0.001713882432073979
+        ],
+        [
+          0.0010883791622287038,
+          0.0024885493241969896,
+          0.0034470387501886602
+        ],
+        [
+          0.001713882432073979,
+          0.0034470387501886602,
+          0.005268446862544714
+        ]
+      ]
+    },
+    {
+      "trial": "lact3_weight30_disc6",
+      "dataset": "disc6",
+      "drive_mm": 3,
+      "disc": 6,
+      "weight_g": 30,
+      "status": "ok",
+      "tendon_tension_n": 3.6770463083132676,
+      "actual_force_n": 0.21675919738744662,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.2248721309450501,
+      "estimated_location_m": 0.1461586854031435,
+      "estimated_force_var_n2": 0.00200018202898132,
+      "estimated_location_var_m2": 0.0002194653288522675,
+      "shape_rmse_mm": 4.058695239941883,
+      "force_error_n": 0.00811293355760348,
+      "force_percentage_error": 3.742832440508627,
+      "force_location_error_mm": 11.158685403143492,
+      "force_direction_error_deg": 8.87492711213467,
+      "estimated_force_cov": [
+        [
+          0.002115939333584381,
+          0.001475871347203487,
+          0.0021576342396093227
+        ],
+        [
+          0.001475871347203487,
+          0.002397379451957263,
+          0.0034704281321808693
+        ],
+        [
+          0.0021576342396093227,
+          0.0034704281321808693,
+          0.005703182409287146
+        ]
+      ]
+    },
+    {
+      "trial": "lact3_weight40_disc6",
+      "dataset": "disc6",
+      "drive_mm": 3,
+      "disc": 6,
+      "weight_g": 40,
+      "status": "ok",
+      "tendon_tension_n": 3.573591035768072,
+      "actual_force_n": 0.2890122631832621,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.2862777308836469,
+      "estimated_location_m": 0.14118579022510433,
+      "estimated_force_var_n2": 0.0018387038652848886,
+      "estimated_location_var_m2": 0.0001447199301273567,
+      "shape_rmse_mm": 4.558061707540562,
+      "force_error_n": 0.0027345322996152333,
+      "force_percentage_error": 0.9461647992013652,
+      "force_location_error_mm": 6.185790225104321,
+      "force_direction_error_deg": 4.736149996401145,
+      "estimated_force_cov": [
+        [
+          0.002692059817503692,
+          0.0017241409499656837,
+          0.0024555036537417287
+        ],
+        [
+          0.0017241409499656837,
+          0.0022895389688492034,
+          0.00333537816763735
+        ],
+        [
+          0.0024555036537417287,
+          0.00333537816763735,
+          0.005694129512515756
+        ]
+      ]
+    },
+    {
+      "trial": "lact3_weight50_disc6",
+      "dataset": "disc6",
+      "drive_mm": 3,
+      "disc": 6,
+      "weight_g": 50,
+      "status": "ok",
+      "tendon_tension_n": 3.4819016056793686,
+      "actual_force_n": 0.3612653289790777,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.3360568848519344,
+      "estimated_location_m": 0.135842334375084,
+      "estimated_force_var_n2": 0.0018253162232427214,
+      "estimated_location_var_m2": 0.00011004530466415817,
+      "shape_rmse_mm": 4.793551549021942,
+      "force_error_n": 0.025208444127143292,
+      "force_percentage_error": 6.9778199304044515,
+      "force_location_error_mm": 0.8423343750839918,
+      "force_direction_error_deg": 3.6725583115393206,
+      "estimated_force_cov": [
+        [
+          0.003182818410868414,
+          0.001841112962888306,
+          0.002620682520111982
+        ],
+        [
+          0.001841112962888306,
+          0.002153835336828262,
+          0.0032018895276742206
+        ],
+        [
+          0.002620682520111982,
+          0.0032018895276742206,
+          0.005810275761139791
+        ]
+      ]
+    },
+    {
+      "trial": "lact4_weight20_disc6",
+      "dataset": "disc6",
+      "drive_mm": 4,
+      "disc": 6,
+      "weight_g": 20,
+      "status": "ok",
+      "tendon_tension_n": 5.406428035717708,
+      "actual_force_n": 0.14450613159163106,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.15088023783551222,
+      "estimated_location_m": 0.15613224738387999,
+      "estimated_force_var_n2": 0.0030229830788307144,
+      "estimated_location_var_m2": 0.0003831258997191062,
+      "shape_rmse_mm": 3.620564458072947,
+      "force_error_n": 0.006374106243881156,
+      "force_percentage_error": 4.410959018607004,
+      "force_location_error_mm": 21.132247383879978,
+      "force_direction_error_deg": 14.199968436412684,
+      "estimated_force_cov": [
+        [
+          0.0011848490005028098,
+          0.001347256228066316,
+          0.0012192289628007676
+        ],
+        [
+          0.001347256228066316,
+          0.0037727196836481666,
+          0.0029626292822703603
+        ],
+        [
+          0.0012192289628007676,
+          0.0029626292822703603,
+          0.0026363116760815208
+        ]
+      ]
+    },
+    {
+      "trial": "lact4_weight30_disc6",
+      "dataset": "disc6",
+      "drive_mm": 4,
+      "disc": 6,
+      "weight_g": 30,
+      "status": "ok",
+      "tendon_tension_n": 5.297349960197727,
+      "actual_force_n": 0.21675919738744662,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.20844346016798962,
+      "estimated_location_m": 0.14322279678847893,
+      "estimated_force_var_n2": 0.0019769391717020996,
+      "estimated_location_var_m2": 0.0001909988625470222,
+      "shape_rmse_mm": 3.7267888770925195,
+      "force_error_n": 0.008315737219456998,
+      "force_percentage_error": 3.836394173665913,
+      "force_location_error_mm": 8.222796788478925,
+      "force_direction_error_deg": 8.106198614422723,
+      "estimated_force_cov": [
+        [
+          0.0018187933020146496,
+          0.0017354550898983074,
+          0.0016022536260567126
+        ],
+        [
+          0.0017354550898983074,
+          0.0037870973886252545,
+          0.0033721762722452547
+        ],
+        [
+          0.0016022536260567126,
+          0.0033721762722452547,
+          0.0034088767852620016
+        ]
+      ]
+    },
+    {
+      "trial": "lact4_weight40_disc6",
+      "dataset": "disc6",
+      "drive_mm": 4,
+      "disc": 6,
+      "weight_g": 40,
+      "status": "ok",
+      "tendon_tension_n": 5.179568888806476,
+      "actual_force_n": 0.2890122631832621,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.27246945482029006,
+      "estimated_location_m": 0.1429846737356372,
+      "estimated_force_var_n2": 0.001952696534326365,
+      "estimated_location_var_m2": 0.00012479399964894413,
+      "shape_rmse_mm": 4.667732665678482,
+      "force_error_n": 0.01654280836297206,
+      "force_percentage_error": 5.7239122592117475,
+      "force_location_error_mm": 7.9846737356371875,
+      "force_direction_error_deg": 5.010974265763844,
+      "estimated_force_cov": [
+        [
+          0.002321282079870182,
+          0.002091263307551097,
+          0.001840242394240364
+        ],
+        [
+          0.002091263307551097,
+          0.0036471395942119095,
+          0.003165318945227671
+        ],
+        [
+          0.001840242394240364,
+          0.003165318945227671,
+          0.003160798619646107
+        ]
+      ]
+    },
+    {
+      "trial": "lact4_weight50_disc6",
+      "dataset": "disc6",
+      "drive_mm": 4,
+      "disc": 6,
+      "weight_g": 50,
+      "status": "ok",
+      "tendon_tension_n": 5.0904234156187,
+      "actual_force_n": 0.3612653289790777,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.33793801432626824,
+      "estimated_location_m": 0.13512272227488983,
+      "estimated_force_var_n2": 0.00183941056800475,
+      "estimated_location_var_m2": 8.727374524831513e-05,
+      "shape_rmse_mm": 4.752652082690388,
+      "force_error_n": 0.02332731465280946,
+      "force_percentage_error": 6.457114143427928,
+      "force_location_error_mm": 0.1227222748898249,
+      "force_direction_error_deg": 0.4091446679138825,
+      "estimated_force_cov": [
+        [
+          0.0029790286258231926,
+          0.0023142824115587337,
+          0.0021157790588785417
+        ],
+        [
+          0.0023142824115587337,
+          0.0034783110744767026,
+          0.0032298569664242108
+        ],
+        [
+          0.0021157790588785417,
+          0.0032298569664242108,
+          0.003548716681287846
+        ]
+      ]
+    },
+    {
+      "trial": "lact3_weight20_disc8",
+      "dataset": "disc8",
+      "drive_mm": 3,
+      "disc": 8,
+      "weight_g": 20,
+      "status": "ok",
+      "tendon_tension_n": 3.728472738898044,
+      "actual_force_n": 0.1445061315916311,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.20572924700711345,
+      "estimated_location_m": 0.19104099078777934,
+      "estimated_force_var_n2": 0.0004106379501840585,
+      "estimated_location_var_m2": 0.00010849952488049765,
+      "shape_rmse_mm": 3.1167204204290155,
+      "force_error_n": 0.061223115415482365,
+      "force_percentage_error": 42.36714023215056,
+      "force_location_error_mm": 2.040990787779334,
+      "force_direction_error_deg": 6.6755564146361746,
+      "estimated_force_cov": [
+        [
+          0.0019938501807325584,
+          0.0007609414495283213,
+          0.00252436654715487
+        ],
+        [
+          0.0007609414495283213,
+          0.0006538819337735685,
+          0.001346456488049769
+        ],
+        [
+          0.00252436654715487,
+          0.001346456488049769,
+          0.003898748790659891
+        ]
+      ]
+    },
+    {
+      "trial": "lact3_weight30_disc8",
+      "dataset": "disc8",
+      "drive_mm": 3,
+      "disc": 8,
+      "weight_g": 30,
+      "status": "ok",
+      "tendon_tension_n": 3.552050279461336,
+      "actual_force_n": 0.2167591973874466,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.26499265850340054,
+      "estimated_location_m": 0.18739293292410353,
+      "estimated_force_var_n2": 0.0010264518530210829,
+      "estimated_location_var_m2": 7.527216027507878e-05,
+      "shape_rmse_mm": 2.753918507843644,
+      "force_error_n": 0.048233461115953946,
+      "force_percentage_error": 22.252094350459775,
+      "force_location_error_mm": 1.6070670758964734,
+      "force_direction_error_deg": 16.95845816410009,
+      "estimated_force_cov": [
+        [
+          0.002475008672216852,
+          0.0004417809427837735,
+          0.0028870249775396675
+        ],
+        [
+          0.0004417809427837735,
+          0.00034860505751822926,
+          0.0008199506133118895
+        ],
+        [
+          0.0028870249775396675,
+          0.0008199506133118895,
+          0.00410900888086182
+        ]
+      ]
+    },
+    {
+      "trial": "lact3_weight40_disc8",
+      "dataset": "disc8",
+      "drive_mm": 3,
+      "disc": 8,
+      "weight_g": 40,
+      "status": "ok",
+      "tendon_tension_n": 3.3648042998968037,
+      "actual_force_n": 0.2890122631832622,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.3078153047402372,
+      "estimated_location_m": 0.18309518592347795,
+      "estimated_force_var_n2": 0.0010241754013059832,
+      "estimated_location_var_m2": 6.26464474206634e-05,
+      "shape_rmse_mm": 3.1503781986152664,
+      "force_error_n": 0.018803041556975042,
+      "force_percentage_error": 6.5059666845527815,
+      "force_location_error_mm": 5.904814076522047,
+      "force_direction_error_deg": 22.1372431313109,
+      "estimated_force_cov": [
+        [
+          0.002946530415817896,
+          5.811389143313952e-05,
+          0.0032406812159288456
+        ],
+        [
+          5.811389143313952e-05,
+          0.0002552681800257714,
+          0.0003350717412208228
+        ],
+        [
+          0.0032406812159288456,
+          0.0003350717412208228,
+          0.0043443151640888845
+        ]
+      ]
+    },
+    {
+      "trial": "lact3_weight50_disc8",
+      "dataset": "disc8",
+      "drive_mm": 3,
+      "disc": 8,
+      "weight_g": 50,
+      "status": "ok",
+      "tendon_tension_n": 3.3349417080737522,
+      "actual_force_n": 0.36126532897907776,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.3853550993798025,
+      "estimated_location_m": 0.17952285965097708,
+      "estimated_force_var_n2": 0.0008271269999234956,
+      "estimated_location_var_m2": 4.5393334712103015e-05,
+      "shape_rmse_mm": 2.407651336111971,
+      "force_error_n": 0.02408977040072474,
+      "force_percentage_error": 6.668165602495409,
+      "force_location_error_mm": 9.477140349022918,
+      "force_direction_error_deg": 24.410943051264805,
+      "estimated_force_cov": [
+        [
+          0.0037370384836396325,
+          -0.0006343128751058224,
+          0.0033548984272411776
+        ],
+        [
+          -0.0006343128751058224,
+          0.0003624737351480613,
+          -0.0003658207348474411
+        ],
+        [
+          0.0033548984272411776,
+          -0.0003658207348474411,
+          0.003701459392149103
+        ]
+      ]
+    },
+    {
+      "trial": "lact4_weight20_disc8",
+      "dataset": "disc8",
+      "drive_mm": 4,
+      "disc": 8,
+      "weight_g": 20,
+      "status": "ok",
+      "tendon_tension_n": 5.0397131080250395,
+      "actual_force_n": 0.14450613159163106,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.22918483107619045,
+      "estimated_location_m": 0.19179955272049964,
+      "estimated_force_var_n2": 0.0004529414411679859,
+      "estimated_location_var_m2": 6.899765916242517e-05,
+      "shape_rmse_mm": 3.7855033616962284,
+      "force_error_n": 0.08467869948455939,
+      "force_percentage_error": 58.598689586306435,
+      "force_location_error_mm": 2.799552720499643,
+      "force_direction_error_deg": 4.839247089654367,
+      "estimated_force_cov": [
+        [
+          0.0020581601435162964,
+          0.0010741475424578047,
+          0.001730725239342074
+        ],
+        [
+          0.0010741475424578047,
+          0.0009391019722635571,
+          0.0011008329531164349
+        ],
+        [
+          0.001730725239342074,
+          0.0011008329531164349,
+          0.0017296684123636718
+        ]
+      ]
+    },
+    {
+      "trial": "lact4_weight30_disc8",
+      "dataset": "disc8",
+      "drive_mm": 4,
+      "disc": 8,
+      "weight_g": 30,
+      "status": "ok",
+      "tendon_tension_n": 4.757982802625525,
+      "actual_force_n": 0.21675919738744662,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.3150773926374677,
+      "estimated_location_m": 0.18439256455302677,
+      "estimated_force_var_n2": 0.0009745030965763197,
+      "estimated_location_var_m2": 4.356491336815172e-05,
+      "shape_rmse_mm": 4.387035944153774,
+      "force_error_n": 0.09831819525002108,
+      "force_percentage_error": 45.35825765874287,
+      "force_location_error_mm": 4.607435446973229,
+      "force_direction_error_deg": 10.253132636009662,
+      "estimated_force_cov": [
+        [
+          0.0024214578639909943,
+          0.0004531628569044238,
+          0.002427742225467088
+        ],
+        [
+          0.0004531628569044238,
+          0.0003692571939931877,
+          0.0006774963430878925
+        ],
+        [
+          0.002427742225467088,
+          0.0006774963430878925,
+          0.002918727324000966
+        ]
+      ]
+    },
+    {
+      "trial": "lact4_weight40_disc8",
+      "dataset": "disc8",
+      "drive_mm": 4,
+      "disc": 8,
+      "weight_g": 40,
+      "status": "ok",
+      "tendon_tension_n": 4.532629088195812,
+      "actual_force_n": 0.2890122631832621,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.33051743946538215,
+      "estimated_location_m": 0.18254994975312622,
+      "estimated_force_var_n2": 0.0005721304347117503,
+      "estimated_location_var_m2": 4.151706212155234e-05,
+      "shape_rmse_mm": 2.41369136634584,
+      "force_error_n": 0.041505176282120027,
+      "force_percentage_error": 14.361043308325526,
+      "force_location_error_mm": 6.450050246873785,
+      "force_direction_error_deg": 17.945125949454127,
+      "estimated_force_cov": [
+        [
+          0.0031280765005313035,
+          0.0005326792356525283,
+          0.002444006501403536
+        ],
+        [
+          0.0005326792356525283,
+          0.00037757210191099213,
+          0.0006237790562050776
+        ],
+        [
+          0.002444006501403536,
+          0.0006237790562050776,
+          0.002338863054810742
+        ]
+      ]
+    },
+    {
+      "trial": "lact4_weight50_disc8",
+      "dataset": "disc8",
+      "drive_mm": 4,
+      "disc": 8,
+      "weight_g": 50,
+      "status": "ok",
+      "tendon_tension_n": 4.364893219392213,
+      "actual_force_n": 0.3612653289790777,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.43712283425209647,
+      "estimated_location_m": 0.17486689790111126,
+      "estimated_force_var_n2": 0.0011366320785933266,
+      "estimated_location_var_m2": 2.9415745358166994e-05,
+      "shape_rmse_mm": 3.972986246503173,
+      "force_error_n": 0.07585750527301877,
+      "force_percentage_error": 20.997726376729602,
+      "force_location_error_mm": 14.133102098888738,
+      "force_direction_error_deg": 29.12444968841931,
+      "estimated_force_cov": [
+        [
+          0.00381234920787837,
+          -0.00023682740227897988,
+          0.0027381193508932825
+        ],
+        [
+          -0.00023682740227897988,
+          0.00028638850056987504,
+          1.2852564544971138e-05
+        ],
+        [
+          0.0027381193508932825,
+          1.2852564544971138e-05,
+          0.0024899749673945636
+        ]
+      ]
+    },
+    {
+      "trial": "lact3_weight10_disc10",
+      "dataset": "disc10",
+      "drive_mm": 3,
+      "disc": 10,
+      "weight_g": 10,
+      "status": "ok",
+      "tendon_tension_n": 3.403039810976607,
+      "actual_force_n": 0.07225306579581553,
+      "actual_location_m": 0.24300000000000002,
+      "estimated_force_n": 0.12944334385964826,
+      "estimated_location_m": 0.2414490266441047,
+      "estimated_force_var_n2": 0.0016445828456709945,
+      "estimated_location_var_m2": 0.0006975857916608828,
+      "shape_rmse_mm": 4.678635108367675,
+      "force_error_n": 0.05719027806383273,
+      "force_percentage_error": 79.15273550530065,
+      "force_location_error_mm": 1.5509733558953243,
+      "force_direction_error_deg": 32.69801553992567,
+      "estimated_force_cov": [
+        [
+          0.0006682614283359967,
+          0.0008881633935508802,
+          0.0007616852301150389
+        ],
+        [
+          0.0008881633935508802,
+          0.0014332415747698086,
+          0.0011202162077490051
+        ],
+        [
+          0.0007616852301150389,
+          0.0011202162077490051,
+          0.0009921439448592338
+        ]
+      ]
+    },
+    {
+      "trial": "lact3_weight20_disc10",
+      "dataset": "disc10",
+      "drive_mm": 3,
+      "disc": 10,
+      "weight_g": 20,
+      "status": "ok",
+      "tendon_tension_n": 3.0034553045828547,
+      "actual_force_n": 0.1445061315916311,
+      "actual_location_m": 0.24300000000000002,
+      "estimated_force_n": 0.20767823982753175,
+      "estimated_location_m": 0.24405090124415624,
+      "estimated_force_var_n2": 0.001887058927613694,
+      "estimated_location_var_m2": 0.0005117993697268769,
+      "shape_rmse_mm": 5.215961349677322,
+      "force_error_n": 0.06317210823590066,
+      "force_percentage_error": 43.7158669601804,
+      "force_location_error_mm": 1.050901244156216,
+      "force_direction_error_deg": 24.160428058823808,
+      "estimated_force_cov": [
+        [
+          0.0014060729317927393,
+          0.0012704034782899233,
+          0.0009847361148019327
+        ],
+        [
+          0.0012704034782899233,
+          0.0012586981234565429,
+          0.0009011905180135125
+        ],
+        [
+          0.0009847361148019327,
+          0.0009011905180135125,
+          0.000772895776052094
+        ]
+      ]
+    },
+    {
+      "trial": "lact3_weight30_disc10",
+      "dataset": "disc10",
+      "drive_mm": 3,
+      "disc": 10,
+      "weight_g": 30,
+      "status": "ok",
+      "tendon_tension_n": 2.784598652946688,
+      "actual_force_n": 0.21675919738744664,
+      "actual_location_m": 0.24300000000000002,
+      "estimated_force_n": 0.28089231783418134,
+      "estimated_location_m": 0.24139693651744012,
+      "estimated_force_var_n2": 0.0018207877845943141,
+      "estimated_location_var_m2": 0.0003899275757079833,
+      "shape_rmse_mm": 4.0892704191249,
+      "force_error_n": 0.06413312044673469,
+      "force_percentage_error": 29.587266062855836,
+      "force_location_error_mm": 1.6030634825598966,
+      "force_direction_error_deg": 17.71044003738919,
+      "estimated_force_cov": [
+        [
+          0.0020648211829715486,
+          0.001311927755575799,
+          0.0009933770291103176
+        ],
+        [
+          0.001311927755575799,
+          0.00096857044285798,
+          0.0006563977186445173
+        ],
+        [
+          0.0009933770291103176,
+          0.0006563977186445173,
+          0.000550012838573141
+        ]
+      ]
+    },
+    {
+      "trial": "lact4_weight10_disc10",
+      "dataset": "disc10",
+      "drive_mm": 4,
+      "disc": 10,
+      "weight_g": 10,
+      "status": "ok",
+      "tendon_tension_n": 4.603888565878088,
+      "actual_force_n": 0.07225306579581552,
+      "actual_location_m": 0.24300000000000002,
+      "estimated_force_n": 0.11673516663812789,
+      "estimated_location_m": 0.24597045263612363,
+      "estimated_force_var_n2": 0.001144575075187154,
+      "estimated_location_var_m2": 0.0006320666083054214,
+      "shape_rmse_mm": 4.749482025314186,
+      "force_error_n": 0.04448210084231237,
+      "force_percentage_error": 61.56430921286736,
+      "force_location_error_mm": 2.9704526361236105,
+      "force_direction_error_deg": 35.45393388036086,
+      "estimated_force_cov": [
+        [
+          0.0004981306187792478,
+          0.0007521985433675967,
+          0.0002854861325897871
+        ],
+        [
+          0.0007521985433675967,
+          0.0012752762342140005,
+          0.00046859427917927683
+        ],
+        [
+          0.0002854861325897871,
+          0.00046859427917927683,
+          0.00029446597330772174
+        ]
+      ]
+    },
+    {
+      "trial": "lact4_weight20_disc10",
+      "dataset": "disc10",
+      "drive_mm": 4,
+      "disc": 10,
+      "weight_g": 20,
+      "status": "ok",
+      "tendon_tension_n": 4.382916786620153,
+      "actual_force_n": 0.14450613159163106,
+      "actual_location_m": 0.24300000000000002,
+      "estimated_force_n": 0.21184765392376614,
+      "estimated_location_m": 0.24519884714330661,
+      "estimated_force_var_n2": 0.0011548528618759134,
+      "estimated_location_var_m2": 0.0003033296842548499,
+      "shape_rmse_mm": 4.069485206434075,
+      "force_error_n": 0.06734152233213508,
+      "force_percentage_error": 46.60115220746461,
+      "force_location_error_mm": 2.1988471433065926,
+      "force_direction_error_deg": 15.956161951022121,
+      "estimated_force_cov": [
+        [
+          0.0012322418661258052,
+          0.0009250601785270378,
+          0.00032005513085642164
+        ],
+        [
+          0.0009250601785270378,
+          0.0007659807850302391,
+          0.0002391061178556811
+        ],
+        [
+          0.00032005513085642164,
+          0.0002391061178556811,
+          0.00019701055856846602
+        ]
+      ]
+    },
+    {
+      "trial": "lact4_weight30_disc10",
+      "dataset": "disc10",
+      "drive_mm": 4,
+      "disc": 10,
+      "weight_g": 30,
+      "status": "ok",
+      "tendon_tension_n": 4.225785641562951,
+      "actual_force_n": 0.21675919738744662,
+      "actual_location_m": 0.24300000000000002,
+      "estimated_force_n": 0.30173484080135415,
+      "estimated_location_m": 0.24053068384196893,
+      "estimated_force_var_n2": 0.001375324371700242,
+      "estimated_location_var_m2": 0.0002443631068087331,
+      "shape_rmse_mm": 3.510430316274614,
+      "force_error_n": 0.08497564341390754,
+      "force_percentage_error": 39.202785597151696,
+      "force_location_error_mm": 2.4693161580310874,
+      "force_direction_error_deg": 2.060165285764756,
+      "estimated_force_cov": [
+        [
+          0.0014846818013542421,
+          0.0009042988935431468,
+          0.00031786313779394513
+        ],
+        [
+          0.0009042988935431468,
+          0.0006793201109252513,
+          0.000159345111073175
+        ],
+        [
+          0.00031786313779394513,
+          0.000159345111073175,
+          0.00015868487132261836
+        ]
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "trial": "lact3_weight20_disc6",
+      "dataset": "disc6",
+      "drive_mm": 3,
+      "disc": 6,
+      "weight_g": 20,
+      "status": "ok",
+      "tendon_tension_n": 3.8026788780145924,
+      "actual_force_n": 0.14450613159163103,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.1492278929172439,
+      "estimated_location_m": 0.15835887428969342,
+      "estimated_force_var_n2": 0.0028661131780322742,
+      "estimated_location_var_m2": 0.00046157202558909697,
+      "shape_rmse_mm": 3.503697715445121,
+      "force_error_n": 0.004721761325612861,
+      "force_percentage_error": 3.2675162455779962,
+      "force_location_error_mm": 23.35887428969341,
+      "force_direction_error_deg": 16.55153232801017
+    },
+    {
+      "trial": "lact3_weight30_disc6",
+      "dataset": "disc6",
+      "drive_mm": 3,
+      "disc": 6,
+      "weight_g": 30,
+      "status": "ok",
+      "tendon_tension_n": 3.6770463083132676,
+      "actual_force_n": 0.21675919738744662,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.2248721309450501,
+      "estimated_location_m": 0.1461586854031435,
+      "estimated_force_var_n2": 0.00200018202898132,
+      "estimated_location_var_m2": 0.0002194653288522675,
+      "shape_rmse_mm": 4.058695239941883,
+      "force_error_n": 0.00811293355760348,
+      "force_percentage_error": 3.742832440508627,
+      "force_location_error_mm": 11.158685403143492,
+      "force_direction_error_deg": 8.87492711213467
+    },
+    {
+      "trial": "lact3_weight40_disc6",
+      "dataset": "disc6",
+      "drive_mm": 3,
+      "disc": 6,
+      "weight_g": 40,
+      "status": "ok",
+      "tendon_tension_n": 3.573591035768072,
+      "actual_force_n": 0.2890122631832621,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.2862777308836469,
+      "estimated_location_m": 0.14118579022510433,
+      "estimated_force_var_n2": 0.0018387038652848886,
+      "estimated_location_var_m2": 0.0001447199301273567,
+      "shape_rmse_mm": 4.558061707540562,
+      "force_error_n": 0.0027345322996152333,
+      "force_percentage_error": 0.9461647992013652,
+      "force_location_error_mm": 6.185790225104321,
+      "force_direction_error_deg": 4.736149996401145
+    },
+    {
+      "trial": "lact3_weight50_disc6",
+      "dataset": "disc6",
+      "drive_mm": 3,
+      "disc": 6,
+      "weight_g": 50,
+      "status": "ok",
+      "tendon_tension_n": 3.4819016056793686,
+      "actual_force_n": 0.3612653289790777,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.3360568848519344,
+      "estimated_location_m": 0.135842334375084,
+      "estimated_force_var_n2": 0.0018253162232427214,
+      "estimated_location_var_m2": 0.00011004530466415817,
+      "shape_rmse_mm": 4.793551549021942,
+      "force_error_n": 0.025208444127143292,
+      "force_percentage_error": 6.9778199304044515,
+      "force_location_error_mm": 0.8423343750839918,
+      "force_direction_error_deg": 3.6725583115393206
+    },
+    {
+      "trial": "lact4_weight20_disc6",
+      "dataset": "disc6",
+      "drive_mm": 4,
+      "disc": 6,
+      "weight_g": 20,
+      "status": "ok",
+      "tendon_tension_n": 5.406428035717708,
+      "actual_force_n": 0.14450613159163106,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.15088023783551222,
+      "estimated_location_m": 0.15613224738387999,
+      "estimated_force_var_n2": 0.0030229830788307144,
+      "estimated_location_var_m2": 0.0003831258997191062,
+      "shape_rmse_mm": 3.620564458072947,
+      "force_error_n": 0.006374106243881156,
+      "force_percentage_error": 4.410959018607004,
+      "force_location_error_mm": 21.132247383879978,
+      "force_direction_error_deg": 14.199968436412684
+    },
+    {
+      "trial": "lact4_weight30_disc6",
+      "dataset": "disc6",
+      "drive_mm": 4,
+      "disc": 6,
+      "weight_g": 30,
+      "status": "ok",
+      "tendon_tension_n": 5.297349960197727,
+      "actual_force_n": 0.21675919738744662,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.20844346016798962,
+      "estimated_location_m": 0.14322279678847893,
+      "estimated_force_var_n2": 0.0019769391717020996,
+      "estimated_location_var_m2": 0.0001909988625470222,
+      "shape_rmse_mm": 3.7267888770925195,
+      "force_error_n": 0.008315737219456998,
+      "force_percentage_error": 3.836394173665913,
+      "force_location_error_mm": 8.222796788478925,
+      "force_direction_error_deg": 8.106198614422723
+    },
+    {
+      "trial": "lact4_weight40_disc6",
+      "dataset": "disc6",
+      "drive_mm": 4,
+      "disc": 6,
+      "weight_g": 40,
+      "status": "ok",
+      "tendon_tension_n": 5.179568888806476,
+      "actual_force_n": 0.2890122631832621,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.27246945482029006,
+      "estimated_location_m": 0.1429846737356372,
+      "estimated_force_var_n2": 0.001952696534326365,
+      "estimated_location_var_m2": 0.00012479399964894413,
+      "shape_rmse_mm": 4.667732665678482,
+      "force_error_n": 0.01654280836297206,
+      "force_percentage_error": 5.7239122592117475,
+      "force_location_error_mm": 7.9846737356371875,
+      "force_direction_error_deg": 5.010974265763844
+    },
+    {
+      "trial": "lact4_weight50_disc6",
+      "dataset": "disc6",
+      "drive_mm": 4,
+      "disc": 6,
+      "weight_g": 50,
+      "status": "ok",
+      "tendon_tension_n": 5.0904234156187,
+      "actual_force_n": 0.3612653289790777,
+      "actual_location_m": 0.135,
+      "estimated_force_n": 0.33793801432626824,
+      "estimated_location_m": 0.13512272227488983,
+      "estimated_force_var_n2": 0.00183941056800475,
+      "estimated_location_var_m2": 8.727374524831513e-05,
+      "shape_rmse_mm": 4.752652082690388,
+      "force_error_n": 0.02332731465280946,
+      "force_percentage_error": 6.457114143427928,
+      "force_location_error_mm": 0.1227222748898249,
+      "force_direction_error_deg": 0.4091446679138825
+    },
+    {
+      "trial": "lact3_weight20_disc8",
+      "dataset": "disc8",
+      "drive_mm": 3,
+      "disc": 8,
+      "weight_g": 20,
+      "status": "ok",
+      "tendon_tension_n": 3.728472738898044,
+      "actual_force_n": 0.1445061315916311,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.20572924700711345,
+      "estimated_location_m": 0.19104099078777934,
+      "estimated_force_var_n2": 0.0004106379501840585,
+      "estimated_location_var_m2": 0.00010849952488049765,
+      "shape_rmse_mm": 3.1167204204290155,
+      "force_error_n": 0.061223115415482365,
+      "force_percentage_error": 42.36714023215056,
+      "force_location_error_mm": 2.040990787779334,
+      "force_direction_error_deg": 6.6755564146361746
+    },
+    {
+      "trial": "lact3_weight30_disc8",
+      "dataset": "disc8",
+      "drive_mm": 3,
+      "disc": 8,
+      "weight_g": 30,
+      "status": "ok",
+      "tendon_tension_n": 3.552050279461336,
+      "actual_force_n": 0.2167591973874466,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.26499265850340054,
+      "estimated_location_m": 0.18739293292410353,
+      "estimated_force_var_n2": 0.0010264518530210829,
+      "estimated_location_var_m2": 7.527216027507878e-05,
+      "shape_rmse_mm": 2.753918507843644,
+      "force_error_n": 0.048233461115953946,
+      "force_percentage_error": 22.252094350459775,
+      "force_location_error_mm": 1.6070670758964734,
+      "force_direction_error_deg": 16.95845816410009
+    },
+    {
+      "trial": "lact3_weight40_disc8",
+      "dataset": "disc8",
+      "drive_mm": 3,
+      "disc": 8,
+      "weight_g": 40,
+      "status": "ok",
+      "tendon_tension_n": 3.3648042998968037,
+      "actual_force_n": 0.2890122631832622,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.3078153047402372,
+      "estimated_location_m": 0.18309518592347795,
+      "estimated_force_var_n2": 0.0010241754013059832,
+      "estimated_location_var_m2": 6.26464474206634e-05,
+      "shape_rmse_mm": 3.1503781986152664,
+      "force_error_n": 0.018803041556975042,
+      "force_percentage_error": 6.5059666845527815,
+      "force_location_error_mm": 5.904814076522047,
+      "force_direction_error_deg": 22.1372431313109
+    },
+    {
+      "trial": "lact3_weight50_disc8",
+      "dataset": "disc8",
+      "drive_mm": 3,
+      "disc": 8,
+      "weight_g": 50,
+      "status": "ok",
+      "tendon_tension_n": 3.3349417080737522,
+      "actual_force_n": 0.36126532897907776,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.3853550993798025,
+      "estimated_location_m": 0.17952285965097708,
+      "estimated_force_var_n2": 0.0008271269999234956,
+      "estimated_location_var_m2": 4.5393334712103015e-05,
+      "shape_rmse_mm": 2.407651336111971,
+      "force_error_n": 0.02408977040072474,
+      "force_percentage_error": 6.668165602495409,
+      "force_location_error_mm": 9.477140349022918,
+      "force_direction_error_deg": 24.410943051264805
+    },
+    {
+      "trial": "lact4_weight20_disc8",
+      "dataset": "disc8",
+      "drive_mm": 4,
+      "disc": 8,
+      "weight_g": 20,
+      "status": "ok",
+      "tendon_tension_n": 5.0397131080250395,
+      "actual_force_n": 0.14450613159163106,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.22918483107619045,
+      "estimated_location_m": 0.19179955272049964,
+      "estimated_force_var_n2": 0.0004529414411679859,
+      "estimated_location_var_m2": 6.899765916242517e-05,
+      "shape_rmse_mm": 3.7855033616962284,
+      "force_error_n": 0.08467869948455939,
+      "force_percentage_error": 58.598689586306435,
+      "force_location_error_mm": 2.799552720499643,
+      "force_direction_error_deg": 4.839247089654367
+    },
+    {
+      "trial": "lact4_weight30_disc8",
+      "dataset": "disc8",
+      "drive_mm": 4,
+      "disc": 8,
+      "weight_g": 30,
+      "status": "ok",
+      "tendon_tension_n": 4.757982802625525,
+      "actual_force_n": 0.21675919738744662,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.3150773926374677,
+      "estimated_location_m": 0.18439256455302677,
+      "estimated_force_var_n2": 0.0009745030965763197,
+      "estimated_location_var_m2": 4.356491336815172e-05,
+      "shape_rmse_mm": 4.387035944153774,
+      "force_error_n": 0.09831819525002108,
+      "force_percentage_error": 45.35825765874287,
+      "force_location_error_mm": 4.607435446973229,
+      "force_direction_error_deg": 10.253132636009662
+    },
+    {
+      "trial": "lact4_weight40_disc8",
+      "dataset": "disc8",
+      "drive_mm": 4,
+      "disc": 8,
+      "weight_g": 40,
+      "status": "ok",
+      "tendon_tension_n": 4.532629088195812,
+      "actual_force_n": 0.2890122631832621,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.33051743946538215,
+      "estimated_location_m": 0.18254994975312622,
+      "estimated_force_var_n2": 0.0005721304347117503,
+      "estimated_location_var_m2": 4.151706212155234e-05,
+      "shape_rmse_mm": 2.41369136634584,
+      "force_error_n": 0.041505176282120027,
+      "force_percentage_error": 14.361043308325526,
+      "force_location_error_mm": 6.450050246873785,
+      "force_direction_error_deg": 17.945125949454127
+    },
+    {
+      "trial": "lact4_weight50_disc8",
+      "dataset": "disc8",
+      "drive_mm": 4,
+      "disc": 8,
+      "weight_g": 50,
+      "status": "ok",
+      "tendon_tension_n": 4.364893219392213,
+      "actual_force_n": 0.3612653289790777,
+      "actual_location_m": 0.189,
+      "estimated_force_n": 0.43712283425209647,
+      "estimated_location_m": 0.17486689790111126,
+      "estimated_force_var_n2": 0.0011366320785933266,
+      "estimated_location_var_m2": 2.9415745358166994e-05,
+      "shape_rmse_mm": 3.972986246503173,
+      "force_error_n": 0.07585750527301877,
+      "force_percentage_error": 20.997726376729602,
+      "force_location_error_mm": 14.133102098888738,
+      "force_direction_error_deg": 29.12444968841931
+    },
+    {
+      "trial": "lact3_weight10_disc10",
+      "dataset": "disc10",
+      "drive_mm": 3,
+      "disc": 10,
+      "weight_g": 10,
+      "status": "ok",
+      "tendon_tension_n": 3.403039810976607,
+      "actual_force_n": 0.07225306579581553,
+      "actual_location_m": 0.24300000000000002,
+      "estimated_force_n": 0.12944334385964826,
+      "estimated_location_m": 0.2414490266441047,
+      "estimated_force_var_n2": 0.0016445828456709945,
+      "estimated_location_var_m2": 0.0006975857916608828,
+      "shape_rmse_mm": 4.678635108367675,
+      "force_error_n": 0.05719027806383273,
+      "force_percentage_error": 79.15273550530065,
+      "force_location_error_mm": 1.5509733558953243,
+      "force_direction_error_deg": 32.69801553992567
+    },
+    {
+      "trial": "lact3_weight20_disc10",
+      "dataset": "disc10",
+      "drive_mm": 3,
+      "disc": 10,
+      "weight_g": 20,
+      "status": "ok",
+      "tendon_tension_n": 3.0034553045828547,
+      "actual_force_n": 0.1445061315916311,
+      "actual_location_m": 0.24300000000000002,
+      "estimated_force_n": 0.20767823982753175,
+      "estimated_location_m": 0.24405090124415624,
+      "estimated_force_var_n2": 0.001887058927613694,
+      "estimated_location_var_m2": 0.0005117993697268769,
+      "shape_rmse_mm": 5.215961349677322,
+      "force_error_n": 0.06317210823590066,
+      "force_percentage_error": 43.7158669601804,
+      "force_location_error_mm": 1.050901244156216,
+      "force_direction_error_deg": 24.160428058823808
+    },
+    {
+      "trial": "lact3_weight30_disc10",
+      "dataset": "disc10",
+      "drive_mm": 3,
+      "disc": 10,
+      "weight_g": 30,
+      "status": "ok",
+      "tendon_tension_n": 2.784598652946688,
+      "actual_force_n": 0.21675919738744664,
+      "actual_location_m": 0.24300000000000002,
+      "estimated_force_n": 0.28089231783418134,
+      "estimated_location_m": 0.24139693651744012,
+      "estimated_force_var_n2": 0.0018207877845943141,
+      "estimated_location_var_m2": 0.0003899275757079833,
+      "shape_rmse_mm": 4.0892704191249,
+      "force_error_n": 0.06413312044673469,
+      "force_percentage_error": 29.587266062855836,
+      "force_location_error_mm": 1.6030634825598966,
+      "force_direction_error_deg": 17.71044003738919
+    },
+    {
+      "trial": "lact4_weight10_disc10",
+      "dataset": "disc10",
+      "drive_mm": 4,
+      "disc": 10,
+      "weight_g": 10,
+      "status": "ok",
+      "tendon_tension_n": 4.603888565878088,
+      "actual_force_n": 0.07225306579581552,
+      "actual_location_m": 0.24300000000000002,
+      "estimated_force_n": 0.11673516663812789,
+      "estimated_location_m": 0.24597045263612363,
+      "estimated_force_var_n2": 0.001144575075187154,
+      "estimated_location_var_m2": 0.0006320666083054214,
+      "shape_rmse_mm": 4.749482025314186,
+      "force_error_n": 0.04448210084231237,
+      "force_percentage_error": 61.56430921286736,
+      "force_location_error_mm": 2.9704526361236105,
+      "force_direction_error_deg": 35.45393388036086
+    },
+    {
+      "trial": "lact4_weight20_disc10",
+      "dataset": "disc10",
+      "drive_mm": 4,
+      "disc": 10,
+      "weight_g": 20,
+      "status": "ok",
+      "tendon_tension_n": 4.382916786620153,
+      "actual_force_n": 0.14450613159163106,
+      "actual_location_m": 0.24300000000000002,
+      "estimated_force_n": 0.21184765392376614,
+      "estimated_location_m": 0.24519884714330661,
+      "estimated_force_var_n2": 0.0011548528618759134,
+      "estimated_location_var_m2": 0.0003033296842548499,
+      "shape_rmse_mm": 4.069485206434075,
+      "force_error_n": 0.06734152233213508,
+      "force_percentage_error": 46.60115220746461,
+      "force_location_error_mm": 2.1988471433065926,
+      "force_direction_error_deg": 15.956161951022121
+    },
+    {
+      "trial": "lact4_weight30_disc10",
+      "dataset": "disc10",
+      "drive_mm": 4,
+      "disc": 10,
+      "weight_g": 30,
+      "status": "ok",
+      "tendon_tension_n": 4.225785641562951,
+      "actual_force_n": 0.21675919738744662,
+      "actual_location_m": 0.24300000000000002,
+      "estimated_force_n": 0.30173484080135415,
+      "estimated_location_m": 0.24053068384196893,
+      "estimated_force_var_n2": 0.001375324371700242,
+      "estimated_location_var_m2": 0.0002443631068087331,
+      "shape_rmse_mm": 3.510430316274614,
+      "force_error_n": 0.08497564341390754,
+      "force_percentage_error": 39.202785597151696,
+      "force_location_error_mm": 2.4693161580310874,
+      "force_direction_error_deg": 2.060165285764756
+    }
+  ]
+}
