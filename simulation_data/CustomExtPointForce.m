@@ -1,6 +1,6 @@
 %Function to calculate the custom external point force. Make sure to edit
 %CustomExtForce.m file too
-%Last modified by Aditya Prakash 5/20/2026
+%Last modified 5/20/2026
 
 function Fext=CustomExtPointForce(Tr,q,g,J,t,qd,eta,Jdot)
 

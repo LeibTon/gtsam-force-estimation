@@ -1,5 +1,5 @@
 """
-Calibration between the UIUC-GT experiment's camera frame (Cam1-origin, millimetres)
+Calibration between the experiment's camera frame (Cam1-origin, millimetres)
 and the Cosserat-rod estimator's spatial/model frame (robot base, metres).
 
 The transform is fit once from the zero-tendon-tension trial, where the measured
